@@ -21,7 +21,6 @@ class StockPicking(models.Model):
             picking_warn = "no-message"
             if rec.state not in ["done", "cancel"] and rec.partner_id:
                 p = rec.partner_id.commercial_partner_id
-                separator = ""
                 if p.picking_warn == "block" or rec.partner_id.picking_warn == "block":
                     picking_warn = "block"
                 elif (
