@@ -24,7 +24,10 @@ class StockPicking(models.Model):
                 separator = ""
                 if p.picking_warn == "block" or rec.partner_id.picking_warn == "block":
                     picking_warn = "block"
-                elif p.picking_warn == "warning" or rec.partner_id.picking_warn == "warning":
+                elif (
+                    p.picking_warn == "warning"
+                    or rec.partner_id.picking_warn == "warning"
+                ):
                     picking_warn = "warning"
             rec.picking_warn = picking_warn
 
