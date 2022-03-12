@@ -123,7 +123,7 @@ class TestStockPickingWarnMessage(SavepointCase):
         self.parent.update({"picking_warn": "no-message"})
         self.assertEqual(picking.picking_warn, "warning")
 
-        # When both the partner ant the parent partner have no message set we expect
+        # When both the partner and the parent partner have no message set we expect
         # to see that also in the picking
         self.partner.update({"picking_warn": "no-message"})
         self.assertEqual(picking.picking_warn, "no-message")

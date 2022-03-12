@@ -55,6 +55,7 @@ Contributors
 ~~~~~~~~~~~~
 
 * Héctor Villarreal <hector.villarreal@forgeflow.com>
+* Daniel Haag <contact@dhx.at>
 
 Maintainers
 ~~~~~~~~~~~
