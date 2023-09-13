@@ -32,11 +32,12 @@ addon | version | maintainers | summary
 [stock_move_line_reserved_quant](stock_move_line_reserved_quant/) | 16.0.1.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | This module allows to get the link from a stock move line to the reserved quant
 [stock_move_line_serial_unique](stock_move_line_serial_unique/) | 16.0.1.0.0 |  | Stock Move Line Serial Unique
 [stock_move_propagate_first_move](stock_move_propagate_first_move/) | 16.0.1.0.1 |  | This addon propagate the picking type of the original move to all next moves created from procurement
-[stock_no_negative](stock_no_negative/) | 16.0.1.0.1 |  | Disallow negative stock levels by default
+[stock_no_negative](stock_no_negative/) | 16.0.1.0.2 |  | Disallow negative stock levels by default
 [stock_override_procurement](stock_override_procurement/) | 16.0.1.0.0 |  | This technical module allow to override procurement values
 [stock_owner_restriction](stock_owner_restriction/) | 16.0.1.1.0 |  | Do not reserve quantity with assigned owner
 [stock_picking_auto_create_lot](stock_picking_auto_create_lot/) | 16.0.1.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Auto create lots for incoming pickings
 [stock_picking_back2draft](stock_picking_back2draft/) | 16.0.1.0.0 |  | Reopen cancelled pickings
+[stock_picking_batch_extended](stock_picking_batch_extended/) | 16.0.1.0.1 | [![gurneyalex](https://github.com/gurneyalex.png?size=30px)](https://github.com/gurneyalex) [![carlosdauden](https://github.com/carlosdauden.png?size=30px)](https://github.com/carlosdauden) [![i-vyshnevska](https://github.com/i-vyshnevska.png?size=30px)](https://github.com/i-vyshnevska) | Allows manage a lot of pickings in batch
 [stock_picking_filter_lot](stock_picking_filter_lot/) | 16.0.1.0.0 |  | In picking out lots' selection, filter lots based on their location
 [stock_picking_grn_mandatory](stock_picking_grn_mandatory/) | 16.0.1.0.0 |  | This module allows to require a GRN (Goods Receive Note) when doing a Stock Picking
 [stock_picking_group_by_base](stock_picking_group_by_base/) | 16.0.1.0.0 |  | Allows to define a way to create index on extensible domain
