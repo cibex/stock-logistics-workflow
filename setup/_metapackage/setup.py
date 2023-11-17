@@ -10,6 +10,7 @@ setuptools.setup(
     install_requires=[
         'odoo-addon-delivery_procurement_group_carrier>=16.0dev,<16.1dev',
         'odoo-addon-purchase_stock_picking_invoice_link>=16.0dev,<16.1dev',
+        'odoo-addon-sale_line_returned_qty>=16.0dev,<16.1dev',
         'odoo-addon-sale_order_global_stock_route>=16.0dev,<16.1dev',
         'odoo-addon-stock_account_product_run_fifo_hook>=16.0dev,<16.1dev',
         'odoo-addon-stock_delivery_note>=16.0dev,<16.1dev',
@@ -44,6 +45,8 @@ setuptools.setup(
         'odoo-addon-stock_picking_show_backorder>=16.0dev,<16.1dev',
         'odoo-addon-stock_picking_show_return>=16.0dev,<16.1dev',
         'odoo-addon-stock_picking_start>=16.0dev,<16.1dev',
+        'odoo-addon-stock_picking_supplier_ref>=16.0dev,<16.1dev',
+        'odoo-addon-stock_picking_warn_message>=16.0dev,<16.1dev',
         'odoo-addon-stock_procurement_customer>=16.0dev,<16.1dev',
         'odoo-addon-stock_putaway_hook>=16.0dev,<16.1dev',
         'odoo-addon-stock_quant_package_dimension>=16.0dev,<16.1dev',
