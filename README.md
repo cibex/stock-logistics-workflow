@@ -34,7 +34,7 @@ addon | version | maintainers | summary
 [stock_lot_scrap](stock_lot_scrap/) | 16.0.1.0.0 |  | This module adds a button in Production Lot/Serial Number view form to Scrap all products contained.
 [stock_move_free_reservation_reassign](stock_move_free_reservation_reassign/) | 16.0.1.0.1 |  | Try to reassign a move when its reservation is removed due to the related quant becoming unavailable
 [stock_move_line_auto_fill](stock_move_line_auto_fill/) | 16.0.1.1.0 |  | Stock Move Line auto fill
-[stock_move_line_expiration_date_required](stock_move_line_expiration_date_required/) | 16.0.1.0.1 |  | Stock Move Line Expiration Date Required
+[stock_move_line_expiration_date_required](stock_move_line_expiration_date_required/) | 16.0.1.0.2 |  | Stock Move Line Expiration Date Required
 [stock_move_line_reserved_quant](stock_move_line_reserved_quant/) | 16.0.1.0.0 | [![rousseldenis](https://github.com/rousseldenis.png?size=30px)](https://github.com/rousseldenis) | This module allows to get the link from a stock move line to the reserved quant
 [stock_move_line_serial_unique](stock_move_line_serial_unique/) | 16.0.1.0.0 |  | Stock Move Line Serial Unique
 [stock_move_manage_priority](stock_move_manage_priority/) | 16.0.1.0.0 |  | Stock Move Priority Management
@@ -49,19 +49,20 @@ addon | version | maintainers | summary
 [stock_picking_batch_extended_account](stock_picking_batch_extended_account/) | 16.0.1.0.2 | [![ernestotejeda](https://github.com/ernestotejeda.png?size=30px)](https://github.com/ernestotejeda) | Generates invoices when batch is set to Done state
 [stock_picking_batch_extended_account_sale_type](stock_picking_batch_extended_account_sale_type/) | 16.0.1.0.2 | [![ernestotejeda](https://github.com/ernestotejeda.png?size=30px)](https://github.com/ernestotejeda) | Generates invoices when batch is set to Done state
 [stock_picking_batch_invoice_frequency](stock_picking_batch_invoice_frequency/) | 16.0.1.0.1 | [![EmilioPascual](https://github.com/EmilioPascual.png?size=30px)](https://github.com/EmilioPascual) [![rafaelbn](https://github.com/rafaelbn.png?size=30px)](https://github.com/rafaelbn) | Invoice Sale Orders from Stock Pickin Batch
-[stock_picking_batch_print_invoices](stock_picking_batch_print_invoices/) | 16.0.1.0.1 | [![EmilioPascual](https://github.com/EmilioPascual.png?size=30px)](https://github.com/EmilioPascual) | Print invoices from stock picking batchs
+[stock_picking_batch_print_invoices](stock_picking_batch_print_invoices/) | 16.0.1.0.2 | [![EmilioPascual](https://github.com/EmilioPascual.png?size=30px)](https://github.com/EmilioPascual) | Print invoices from stock picking batchs
 [stock_picking_batch_print_pickings](stock_picking_batch_print_pickings/) | 16.0.1.0.2 | [![EmilioPascual](https://github.com/EmilioPascual.png?size=30px)](https://github.com/EmilioPascual) | Print Picking from Stock Picking Batch
 [stock_picking_customer_ref](stock_picking_customer_ref/) | 16.0.1.0.0 |  | This module displays the sale reference/description in the pickings
 [stock_picking_filter_lot](stock_picking_filter_lot/) | 16.0.1.0.0 |  | In picking out lots' selection, filter lots based on their location
 [stock_picking_grn_mandatory](stock_picking_grn_mandatory/) | 16.0.1.0.0 |  | This module allows to require a GRN (Goods Receive Note) when doing a Stock Picking
 [stock_picking_group_by_base](stock_picking_group_by_base/) | 16.0.1.0.0 |  | Allows to define a way to create index on extensible domain
 [stock_picking_group_by_max_weight](stock_picking_group_by_max_weight/) | 16.0.1.0.0 |  | Allows to filter available pickings for which a maximum weight is not exceeded.
-[stock_picking_group_by_partner_by_carrier](stock_picking_group_by_partner_by_carrier/) | 16.0.1.0.1 |  | Stock Picking: group by partner and carrier
+[stock_picking_group_by_partner_by_carrier](stock_picking_group_by_partner_by_carrier/) | 16.0.1.1.0 |  | Stock Picking: group by partner and carrier
 [stock_picking_info_lot](stock_picking_info_lot/) | 16.0.1.0.0 |  | Add lot information on Stock Transfer lines
 [stock_picking_invoice_link](stock_picking_invoice_link/) | 16.0.1.0.2 |  | Adds link between pickings and invoices
 [stock_picking_kind](stock_picking_kind/) | 16.0.1.0.0 |  | Computes the kind of picking based on locations
 [stock_picking_line_sequence](stock_picking_line_sequence/) | 16.0.1.0.0 |  | Manages the order of stock moves by displaying its sequence
 [stock_picking_mass_action](stock_picking_mass_action/) | 16.0.1.0.0 |  | Stock Picking Mass Action
+[stock_picking_partner_note](stock_picking_partner_note/) | 16.0.1.0.0 |  | Add partner notes on picking
 [stock_picking_product_link](stock_picking_product_link/) | 16.0.1.0.0 | [![robinkeunen](https://github.com/robinkeunen.png?size=30px)](https://github.com/robinkeunen) | Adds a "Product" smart button on stock pickings.
 [stock_picking_purchase_order_link](stock_picking_purchase_order_link/) | 16.0.1.0.1 |  | Link between picking and purchase order
 [stock_picking_sale_order_link](stock_picking_sale_order_link/) | 16.0.1.0.0 |  | Link between picking and sale order
@@ -70,6 +71,7 @@ addon | version | maintainers | summary
 [stock_picking_show_return](stock_picking_show_return/) | 16.0.1.0.1 |  | Show returns on stock pickings
 [stock_picking_start](stock_picking_start/) | 16.0.1.1.0 |  | Add button to start picking
 [stock_picking_supplier_ref](stock_picking_supplier_ref/) | 16.0.1.0.0 |  | Adds a supplier reference field inside supplier's pickings and allows search for this reference.
+[stock_picking_to_batch_group_fields](stock_picking_to_batch_group_fields/) | 16.0.1.0.1 | [![EmilioPascual](https://github.com/EmilioPascual.png?size=30px)](https://github.com/EmilioPascual) | Allows to create batches grouped by picking fields.
 [stock_picking_warn_message](stock_picking_warn_message/) | 16.0.1.0.0 |  | Add a popup warning on picking to ensure warning is populated
 [stock_procurement_customer](stock_procurement_customer/) | 16.0.1.0.1 |  | Allows to store customer if different from the partner
 [stock_putaway_hook](stock_putaway_hook/) | 16.0.1.0.1 |  | Add hooks allowing modules to add more putaway strategies
