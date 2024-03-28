@@ -31,6 +31,8 @@ addon | version | maintainers | summary
 [stock_delivery_note](stock_delivery_note/) | 16.0.1.0.0 |  | This module allows to fill in a delivery note that will be displayed on delivery report
 [stock_grn](stock_grn/) | 16.0.1.0.2 |  | Goods Received Note
 [stock_landed_costs_currency](stock_landed_costs_currency/) | 16.0.1.0.0 |  | Stock Landed Costs Currency
+[stock_landed_costs_purchase_auto](stock_landed_costs_purchase_auto/) | 16.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Stock landed costs purchase auto
+[stock_landed_costs_security](stock_landed_costs_security/) | 16.0.1.0.0 | [![cesar-tecnativa](https://github.com/cesar-tecnativa.png?size=30px)](https://github.com/cesar-tecnativa) | Stock landed costs security
 [stock_lot_production_date](stock_lot_production_date/) | 16.0.1.0.0 |  | Stock Lot Production Date
 [stock_lot_scrap](stock_lot_scrap/) | 16.0.1.0.0 |  | This module adds a button in Production Lot/Serial Number view form to Scrap all products contained.
 [stock_move_free_reservation_reassign](stock_move_free_reservation_reassign/) | 16.0.1.0.1 |  | Try to reassign a move when its reservation is removed due to the related quant becoming unavailable
@@ -66,7 +68,7 @@ addon | version | maintainers | summary
 [stock_picking_kind](stock_picking_kind/) | 16.0.1.0.0 |  | Computes the kind of picking based on locations
 [stock_picking_line_sequence](stock_picking_line_sequence/) | 16.0.1.0.0 |  | Manages the order of stock moves by displaying its sequence
 [stock_picking_mass_action](stock_picking_mass_action/) | 16.0.1.1.0 |  | Stock Picking Mass Action
-[stock_picking_partner_note](stock_picking_partner_note/) | 16.0.1.0.1 |  | Add partner notes on picking
+[stock_picking_partner_note](stock_picking_partner_note/) | 16.0.1.1.0 |  | Add partner notes on picking
 [stock_picking_product_link](stock_picking_product_link/) | 16.0.1.0.0 | [![robinkeunen](https://github.com/robinkeunen.png?size=30px)](https://github.com/robinkeunen) | Adds a "Product" smart button on stock pickings.
 [stock_picking_progress](stock_picking_progress/) | 16.0.1.0.0 | [![mmequignon](https://github.com/mmequignon.png?size=30px)](https://github.com/mmequignon) [![JuMiSanAr](https://github.com/JuMiSanAr.png?size=30px)](https://github.com/JuMiSanAr) | Compute the stock.picking progression
 [stock_picking_purchase_order_link](stock_picking_purchase_order_link/) | 16.0.1.0.1 |  | Link between picking and purchase order
