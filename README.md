@@ -25,7 +25,7 @@ addon | version | maintainers | summary
 [delivery_total_weight_from_packaging](delivery_total_weight_from_packaging/) | 16.0.1.0.1 |  | Include packaging weight on move, transfer and package.
 [procurement_auto_create_group_carrier](procurement_auto_create_group_carrier/) | 16.0.1.0.0 |  | Procurement Auto Create Group Carrier
 [product_expiry_simple](product_expiry_simple/) | 16.0.1.2.0 | [![alexis-via](https://github.com/alexis-via.png?size=30px)](https://github.com/alexis-via) | Simpler and better alternative to the official product_expiry module
-[purchase_stock_picking_invoice_link](purchase_stock_picking_invoice_link/) | 16.0.1.0.0 |  | Adds link between purchases, pickings and invoices
+[purchase_stock_picking_invoice_link](purchase_stock_picking_invoice_link/) | 16.0.1.0.1 |  | Adds link between purchases, pickings and invoices
 [sale_line_returned_qty](sale_line_returned_qty/) | 16.0.1.0.0 |  | Track returned quantity of sale order lines.
 [sale_order_global_stock_route](sale_order_global_stock_route/) | 16.0.1.1.1 |  | Add the possibility to choose one warehouse path for an order
 [sale_stock_restocking_fee_invoicing](sale_stock_restocking_fee_invoicing/) | 16.0.1.0.0 |  | On demand charge restocking fee for accepting returned goods .
@@ -67,7 +67,7 @@ addon | version | maintainers | summary
 [stock_picking_batch_invoice_frequency](stock_picking_batch_invoice_frequency/) | 16.0.1.0.1 | [![EmilioPascual](https://github.com/EmilioPascual.png?size=30px)](https://github.com/EmilioPascual) [![rafaelbn](https://github.com/rafaelbn.png?size=30px)](https://github.com/rafaelbn) | Invoice Sale Orders from Stock Pickin Batch
 [stock_picking_batch_print_invoices](stock_picking_batch_print_invoices/) | 16.0.1.1.0 | [![EmilioPascual](https://github.com/EmilioPascual.png?size=30px)](https://github.com/EmilioPascual) | Print invoices from stock picking batchs
 [stock_picking_batch_print_pickings](stock_picking_batch_print_pickings/) | 16.0.1.1.0 | [![EmilioPascual](https://github.com/EmilioPascual.png?size=30px)](https://github.com/EmilioPascual) | Print Picking from Stock Picking Batch
-[stock_picking_batch_validate_confirm](stock_picking_batch_validate_confirm/) | 16.0.1.1.1 | [![EmilioPascual](https://github.com/EmilioPascual.png?size=30px)](https://github.com/EmilioPascual) [![rafaelbn](https://github.com/rafaelbn.png?size=30px)](https://github.com/rafaelbn) | Request confirmation when validating batch if there are pending origin moves
+[stock_picking_batch_validate_confirm](stock_picking_batch_validate_confirm/) | 16.0.1.1.2 | [![EmilioPascual](https://github.com/EmilioPascual.png?size=30px)](https://github.com/EmilioPascual) [![rafaelbn](https://github.com/rafaelbn.png?size=30px)](https://github.com/rafaelbn) | Request confirmation when validating batch if there are pending origin moves
 [stock_picking_customer_ref](stock_picking_customer_ref/) | 16.0.1.0.0 |  | This module displays the sale reference/description in the pickings
 [stock_picking_date_deadline_syncs_scheduled_date](stock_picking_date_deadline_syncs_scheduled_date/) | 16.0.1.0.1 | [![Shide](https://github.com/Shide.png?size=30px)](https://github.com/Shide) | Sync Scheduled Date with Date Deadline in Stock Picking
 [stock_picking_filter_lot](stock_picking_filter_lot/) | 16.0.1.0.0 |  | In picking out lots' selection, filter lots based on their location
@@ -78,7 +78,7 @@ addon | version | maintainers | summary
 [stock_picking_group_by_partner_by_carrier_by_date](stock_picking_group_by_partner_by_carrier_by_date/) | 16.0.1.0.0 |  | Stock Picking: group by partner and carrier and scheduled date
 [stock_picking_import_serial_number](stock_picking_import_serial_number/) | 16.0.1.0.0 | [![sergio-teruel](https://github.com/sergio-teruel.png?size=30px)](https://github.com/sergio-teruel) | Import S/N from excel file for incoming pickings
 [stock_picking_info_lot](stock_picking_info_lot/) | 16.0.1.0.0 |  | Add lot information on Stock Transfer lines
-[stock_picking_invoice_link](stock_picking_invoice_link/) | 16.0.1.1.3 |  | Adds link between pickings and invoices
+[stock_picking_invoice_link](stock_picking_invoice_link/) | 16.0.1.1.4 |  | Adds link between pickings and invoices
 [stock_picking_kind](stock_picking_kind/) | 16.0.1.0.0 |  | Computes the kind of picking based on locations
 [stock_picking_line_sequence](stock_picking_line_sequence/) | 16.0.1.0.1 |  | Manages the order of stock moves by displaying its sequence
 [stock_picking_mass_action](stock_picking_mass_action/) | 16.0.1.1.1 |  | Stock Picking Mass Action
@@ -112,7 +112,7 @@ addon | version | maintainers | summary
 [stock_restrict_lot](stock_restrict_lot/) | 16.0.2.1.0 | [![florian-dacosta](https://github.com/florian-dacosta.png?size=30px)](https://github.com/florian-dacosta) | Base module that add back the concept of restrict lot on stock move
 [stock_rule_reserve_max_quantity](stock_rule_reserve_max_quantity/) | 16.0.1.0.1 | [![Shide](https://github.com/Shide.png?size=30px)](https://github.com/Shide) [![rafaelbn](https://github.com/rafaelbn.png?size=30px)](https://github.com/rafaelbn) | Allows to reserve max available quantity when a move comes from an stock rule
 [stock_split_picking](stock_split_picking/) | 16.0.1.0.6 |  | Split a picking in two not transferred pickings
-[stock_valuation_layer_usage](stock_valuation_layer_usage/) | 16.0.2.0.1 |  | Trace where has the stock valuation been used in, including the quantities taken.
+[stock_valuation_layer_usage](stock_valuation_layer_usage/) | 16.0.2.1.0 |  | Trace where has the stock valuation been used in, including the quantities taken.
 
 [//]: # (end addons)
 
