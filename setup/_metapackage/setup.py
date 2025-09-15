@@ -42,6 +42,7 @@ setuptools.setup(
         'odoo-addon-stock_move_line_reserved_quant>=16.0dev,<16.1dev',
         'odoo-addon-stock_move_line_serial_unique>=16.0dev,<16.1dev',
         'odoo-addon-stock_move_manage_priority>=16.0dev,<16.1dev',
+        'odoo-addon-stock_move_not_merge_by_dest_moves>=16.0dev,<16.1dev',
         'odoo-addon-stock_move_priority_picking_assign>=16.0dev,<16.1dev',
         'odoo-addon-stock_move_propagate_first_move>=16.0dev,<16.1dev',
         'odoo-addon-stock_move_quick_lot>=16.0dev,<16.1dev',
