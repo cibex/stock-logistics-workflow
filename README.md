@@ -40,6 +40,7 @@ addon | version | maintainers | summary
 [stock_grn](stock_grn/) | 16.0.1.1.0 |  | Goods Received Note
 [stock_landed_costs_currency](stock_landed_costs_currency/) | 16.0.1.0.0 |  | Stock Landed Costs Currency
 [stock_landed_costs_delivery](stock_landed_costs_delivery/) | 16.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Stock landed costs delivery
+[stock_landed_costs_priority](stock_landed_costs_priority/) | 16.0.1.0.0 |  | Add priority to landed costs
 [stock_landed_costs_purchase_auto](stock_landed_costs_purchase_auto/) | 16.0.1.0.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Stock landed costs purchase auto
 [stock_landed_costs_security](stock_landed_costs_security/) | 16.0.1.0.0 | <a href='https://github.com/cesar-tecnativa'><img src='https://github.com/cesar-tecnativa.png' width='32' height='32' style='border-radius:50%;' alt='cesar-tecnativa'/></a> | Stock landed costs security
 [stock_lock_lot](stock_lock_lot/) | 16.0.1.0.0 |  | Stock Lock Lot
